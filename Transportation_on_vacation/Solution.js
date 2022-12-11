@@ -10,5 +10,4 @@ function CarRental(d) {
     }
     return res;
 }
-
 console.log(CarRental(2))
